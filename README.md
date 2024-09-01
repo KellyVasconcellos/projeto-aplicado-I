@@ -1,6 +1,6 @@
 # projeto-aplicado-I
 
-## Análise Exploratória de Dados: “Notificação de Suspeita de Covid-19” entre os Estados Mais e Menos Populosos das Regiões Brasileiras
+## Análise Exploratória de Dados do Dataset “Notificação de Suspeita de Covid-19” - Comparação Entre os Estados Mais e Menos Populosos das Regiões Brasileiras.
 
 ## Integrantes do Grupo
 
