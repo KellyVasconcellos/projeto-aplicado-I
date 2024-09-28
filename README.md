@@ -9,6 +9,7 @@
 - GUSTAVO AZEVEDO GOMYDE - RA: 10424543  
 - KELLY HARO VASCONCELLOS - RA: 10441014
 
+
 ## Contexto do Estudo
 
 Este estudo visa realizar uma análise comparativa da incidência de suspeita de covid-19 em estados com os maiores e menores índices populacionais em cada região do Brasil. A análise se concentrará em dados brutos relacionados à síndrome gripal suspeita de covid-19, abrangendo estados de cada região: Norte, Nordeste, Sul, Centro-Oeste e Sudeste.
@@ -67,6 +68,18 @@ Utilizaremos os estados mais e menos populosos de cada região para o estudo:
 
 - Finalizar e formatar a proposta e a análise.
 - Entregar e apresentar o projeto finalizado.
+
+## Análise de Dados
+
+Nesta etapa estamos entregando os scripts em Python das análises:
+- Comparar a evolução do Covid-19 entre os grupos mais e menos populosos nas regiões brasileiras está no script: **""**
+
+- Volumetria das vacinas aplicadas por laboratório está no script: **"vacinacao.py"**
+
+- Comparar a relação entre sexo e idade dos pacientes com suspeita de
+covid-19 está no script: **"media_sexo_idade.py"**
+
+- Relacionar dados climáticos com os casos de covid-19 está no script: **""**
 
 ## Links Úteis
 

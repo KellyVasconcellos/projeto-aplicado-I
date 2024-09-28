@@ -1,7 +1,7 @@
 import pandas as pd
 import os
 
-# Defina o diretório onde os arquivos CSV estão localizados
+# Definir o diretório onde os arquivos CSV estão localizados
 diretorio_entrada = '.'  # Diretório onde os arquivos CSV estão localizados
 diretorio_saida = 'saida'  # Diretório onde o arquivo combinado será salvo
 
