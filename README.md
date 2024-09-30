@@ -33,7 +33,10 @@ Utilizaremos os estados mais e menos populosos de cada região para o estudo:
 - Comparar a evolução do Covid-19 entre os grupos mais e menos populosos.
 - Analisar a volumetria geral das vacinas aplicadas por laboratório.
 - Comparar a relação entre sexo e idade dos pacientes com suspeita de covid-19 entre os grupos mais e menos populosos.
-- 
+- Ocorrência de Sintomas em Casos de Óbito
+- Quantificar atuação de profissionais da área da saúde
+- Analisar os casos assintomáticos
+
 
 ## Projeto
 
