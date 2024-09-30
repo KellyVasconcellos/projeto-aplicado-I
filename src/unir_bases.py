@@ -1,6 +1,8 @@
 import pandas as pd
 import os
 
+#Script para unir cada csv de cada estado e criar um único dataset, que será usado para as análises.
+
 # Definir o diretório onde os arquivos CSV estão localizados
 diretorio_entrada = '.'  # Diretório onde os arquivos CSV estão localizados
 diretorio_saida = 'saida'  # Diretório onde o arquivo combinado será salvo
