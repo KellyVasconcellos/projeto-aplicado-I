@@ -28,7 +28,7 @@ Utilizaremos os estados mais e menos populosos de cada região para o estudo:
 - **Centro-Oeste:** Goiás (GO) x Mato Grosso do Sul (MS)
 - **Nordeste:** Bahia (BA) x Sergipe (SE)
 
-## Metas
+## Análises de Dados
 
 - Comparar a evolução do Covid-19 entre os grupos mais e menos populosos.
 - Analisar a volumetria geral das vacinas aplicadas por laboratório.
