@@ -1,6 +1,6 @@
 # Science for Life SA 
 
-Através da análise de dados temos como missão contribuir para gestão de risco de doenças infecciosas, fornecendo dados sobre padrões e tendências de disseminação das doenças
+Através da análise de dados temos como missão contribuir para gestão de risco de doenças infecciosas, fornecendo dados sobre padrões e tendências de disseminação das doenças.
 
 
 ## Integrantes do Grupo
