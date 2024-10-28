@@ -1,0 +1,2 @@
+Como o github não aceita que o repositório tenha mais que 100MB, o dataset .csv foi ignorado no .gitignore.
+
