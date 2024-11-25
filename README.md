@@ -2,6 +2,8 @@
 
 Através da análise de dados temos como missão contribuir para gestão de risco de doenças infecciosas, fornecendo dados sobre padrões e tendências de disseminação das doenças.
 
+## Integrantes do Grupo
+- Vídeo de Apresentação do Projeto: https://www.youtube.com/watch?v=ox_e85v5HpA
 
 ## Integrantes do Grupo
 
